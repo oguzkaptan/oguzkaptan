@@ -1,10 +1,10 @@
-### Selam, Github profilime hoşgeldin :wave: :wave: :wave:
+### Selam, Github profilime hoş geldin :wave: :wave: :wave:
 
 ### Ben Oğuz, özünde araştırmayı ve kendini geliştirmeyi seven bir yaşayıcıyım. Biyomedikal teknikerliği ve mühendisliği eğitimi aldım. Burada, kendi çalışmalarımı ve notlarımı tutuyorum.
 
 ### Biyomedikal Mühendisi || Junior Developer
 
-### Bana ulaşabilrisin:
+### Bana Ulaşabilirsiniz
 
 [<img height="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align= "left" />][linkedin]
 [<img height="22" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" align= "left" />][instagram]
