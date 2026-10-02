@@ -1,7 +1,5 @@
 ### Selam, Github profilime hoş geldin :wave: :wave: :wave:
 
-### Biyomedikal Mühendisi || Junior Developer
-
 ### Bana Ulaşabilirsiniz
 
 [<img height="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align= "left" />][linkedin]
