@@ -1,7 +1,7 @@
-# Hello, I'm Oğuz 👋
+### Hello, I'm
 
-Biomedical Engineer | Technology Enthusiast
+### Oğuz Kaptan
 
-Exploring, learning, and building.
+### Biomedical Engineer
 
 [LinkedIn](https://www.linkedin.com/in/oguzkaptan/)
